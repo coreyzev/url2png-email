@@ -4,7 +4,7 @@ Use the [url2png](http://www.url2png.com) api service and nodejs to email a scre
 
 Especially useful if added to cron.
 
-Edit your index.json for the variables you want to use. 
+Edit your index.js for the variables you want to use. 
 
 requires `mutt`. Run `mutt` once to set it up.
 
