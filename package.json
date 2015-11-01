@@ -1,0 +1,15 @@
+{
+  "name": "email-url2png",
+  "version": "0.0.1",
+  "description": "send a screenshot to your email",
+  "main": "index.js",
+  "dependencies": {
+    "url2png": "^6.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Corey Zev Holland",
+  "license": "MIT"
+}
