@@ -4,7 +4,7 @@ Use the [url2png](http://www.url2png.com) api service and nodejs to email a scre
 
 Especially useful if added to cron.
 
-Mostly just a placeholder for the working bits until I turn it into an actual module that can be run. 
+Mostly just a placeholder for the working bits until I turn it into an actual modular tool that can be used inside other projects. 
 
 ---
 
